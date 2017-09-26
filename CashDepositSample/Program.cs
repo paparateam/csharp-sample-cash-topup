@@ -39,7 +39,7 @@
             {
                 if (response.StatusCode != HttpStatusCode.InternalServerError)
                 {
-                    Console.WriteLine("Papara isteği karşılayamadı. Sistemsel bir hata oluştur");
+                    Console.WriteLine("Papara isteği karşılayamadı. Sistemsel bir hata oluştu");
                 }
 
                 if (response.StatusCode != HttpStatusCode.Unauthorized)
