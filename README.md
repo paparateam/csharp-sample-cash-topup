@@ -1,1 +1,3 @@
-# csharp-sample-cash-topup
+# Örnek fiziksel noktadan para yükleme kodları.
+
+Restsharp ve NewtonSoft.Json nuget paketlerini kullanmaktadır.
